@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MStart</string>
+    <string name="add_event">انشاء حدث</string>
+    <string name="enter_a_gregorian_date_to_convert_to_hijri_date">أدخل التاريخ الميلادي لتحويله إلى تاريخ هجري</string>
+    <string name="the_converted_date_is">التاريخ الهجري هو</string>
+    <string name="events">الأحداث</string>
+    <string name="convert">تحويل</string>
+    <string name="confirmation_dialog">التأكيد</string>
+    <string name="are_you_sure">هل أنت متأكد؟</string>
+    <string name="cancel">إلغاء</string>
+    <string name="confirm">تأكيد</string>
+    <string name="languages">اللغات</string>
+    <string name="english">English</string>
+    <string name="arabic">اللغة العربية</string>
+    <string name="apply">تطبيق</string>
+    <string name="something_went_wrong">حدث خطأ ما</string>
+    <string name="gregorian_date">التاريخ الميلادي </string>
+    <string name="hijri_date">التاريخ الهجري </string>
+    <string name="event_title">عنوان الحدث</string>
+    <string name="event_description">وصف الحدث</string>
+    <string name="enter_event_name">أدخل اسم الحدث</string>
+    <string name="enter_event_description">أدخل وصف الحدث</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="all_fields_are_required">جميع الحقول مطلوبة</string>
+    <string name="invalid_date">التاريخ خاطئ</string>
+    <string name="the_event_name_must_be_at_minimum_3_characters_maximum_50_characters">يجب أن يتكون عنوان الحدث من 3 أحرف على الأقل و50 حرف على الأكثر </string>
+    <string name="the_event_description_must_be_at_minimum_10_characters_maximum_200_characters">يجب أن يتكون وصف الحدث من 10 أحرف على الأقل و200 حرف على الأكثر </string>
+    <string name="check_your_internet_connection">يرجى التحقق من الإتصال بالانترنت</string>
+    <string name="you_have_to_select_the_date_manualy">يجب اختيار التاريخ يدويا</string>
+</resources>

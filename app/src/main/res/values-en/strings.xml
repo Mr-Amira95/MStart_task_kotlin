@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MStart Task</string>
+    <string name="enter_a_gregorian_date_to_convert_to_hijri_date">Enter a Gregorian date to convert to Hijri date</string>
+    <string name="the_converted_date_is">The converted date is</string>
+    <string name="events">Events</string>
+    <string name="convert">Convert</string>
+    <string name="confirmation_dialog">Confirmation Dialog</string>
+    <string name="are_you_sure">Are you sure</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="languages">Languages</string>
+    <string name="english">English</string>
+    <string name="arabic">اللغة العربية</string>
+    <string name="apply">Apply</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="gregorian_date">Gregorian Date</string>
+    <string name="hijri_date">Hijri Date</string>
+    <string name="event_title">Event Title</string>
+    <string name="event_description">Event Description</string>
+    <string name="enter_event_name">Enter Event Name</string>
+    <string name="enter_event_description">Enter Event Description</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="all_fields_are_required">All fields are required</string>
+    <string name="add_event">Add Event</string>
+    <string name="invalid_date">Invalid Date</string>
+    <string name="the_event_description_must_be_at_minimum_10_characters_maximum_200_characters">The event description must be at minimum 10 characters, maximum 200 characters</string>
+    <string name="the_event_name_must_be_at_minimum_3_characters_maximum_50_characters">The event name must be at minimum 3 characters, maximum 50 characters</string>
+    <string name="check_your_internet_connection">Check your internet connection</string>
+    <string name="you_have_to_select_the_date_manualy">You have to selet the date manually</string>
+</resources>

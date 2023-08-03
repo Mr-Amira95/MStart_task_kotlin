@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"/>
+
+    <style name="DatePickerDialogTheme" parent="ThemeOverlay.AppCompat.Dialog">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:colorAccent">@color/primary_color_dark</item>
+    </style>
+
+    <style name="LoadingDialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>
